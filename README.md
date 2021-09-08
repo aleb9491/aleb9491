@@ -3,5 +3,6 @@
 % ECE 331-01                                                   %
 % Lab 0                                                        %
 % 9/9/2021                                                     %
-% Any other necessary information needed to navigate the file  %
+% for upcoming summer, i'm planning to take some class.        %
+% I'm in this class to learn something useful for my life.     %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
